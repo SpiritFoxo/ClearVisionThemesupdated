@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "name": "ClearVision v1.2.7",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm. Now with fixed background.",
 	"authors": [
       {
          "name": "Taki_Shiwa",
@@ -443,7 +443,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://i.imgur.com/7SbtKvw.png"
+        "url": "https://i.imgur.com/43umcdY.jpg"
     },
     "plus": {
         "version": 0,
